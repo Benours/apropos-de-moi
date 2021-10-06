@@ -1,2 +1,1 @@
- 
-"BASKA Benjamin" 
+ BASKA Benjamin
